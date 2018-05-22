@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app6</string>
+    <string name="main_activity_prompt_text">Enter Background URL:</string>
+    <string name="test_background">Test Background</string>
+    <string name="error_loading_image">Error loading image from: %s</string>
+    <string name="back">Back</string>
+</resources>

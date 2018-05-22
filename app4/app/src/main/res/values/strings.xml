@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app4</string>
+    <string name="toggle_image">Toggle image</string>
+    <string name="error_loading_image">Error, failed loading image from %s</string>
+</resources>

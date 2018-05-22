@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app2</string>
+    <string name="magic_button_default_text">See the magic</string>
+    <string name="magic_edit_text_hint">Enter text</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app7</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="song_title">Title: %s</string>
+    <string name="song_artist">Artist: %s</string>
+    <string name="invalid_address">Invalid Address</string>
+    <string name="error_loading_audio">Failed loading audio</string>
+</resources>

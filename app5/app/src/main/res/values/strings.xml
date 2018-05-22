@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app5</string>
+    <string name="main_activity_prompt">Please enter initial string:</string>
+    <string name="initial_string">Initial string</string>
+    <string name="calculate">Calculate…</string>
+    <string name="current_value">current value is %.2f</string>
+    <string name="plus">Plus</string>
+    <string name="minus">Minus</string>
+    <string name="finish">Finish</string>
+</resources>
