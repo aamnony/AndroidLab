@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app10</string>
+    <string name="bitmap_information">File Size: %d\nFile Dimension: %d by %d</string>
+    <string name="file_saved">%s Saved</string>
+</resources>
